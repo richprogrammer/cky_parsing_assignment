@@ -1,0 +1,6 @@
+test.pcfg_parses	437 brackets
+test.trees	471 brackets
+matching	407 brackets
+precision	0.931350114416476
+recall	0.8641188959660298
+F1	0.8964757709251101
