@@ -6,7 +6,7 @@
 
 ### Overview
 
-In this assignment, we will be building a simple parser that is trained from the ATIS (Air Traffic Information System) portion of the Penn Treebank. The training data consists of short queries and commands spoken by users of a fake robot travel agent.
+We will be building a simple parser that is trained from the ATIS (Air Traffic Information System) portion of the Penn Treebank. The training data consists of short queries and commands spoken by users of a fake robot travel agent.
 
 The files provided and their purpose are listed below:
 
